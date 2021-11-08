@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/protein-sequence/static/css/main.f5c02edc.chunk.css",
+    "main.js": "/protein-sequence/static/js/main.f6086c27.chunk.js",
+    "main.js.map": "/protein-sequence/static/js/main.f6086c27.chunk.js.map",
+    "runtime-main.js": "/protein-sequence/static/js/runtime-main.c6a83590.js",
+    "runtime-main.js.map": "/protein-sequence/static/js/runtime-main.c6a83590.js.map",
+    "static/js/2.a6d7afa3.chunk.js": "/protein-sequence/static/js/2.a6d7afa3.chunk.js",
+    "static/js/2.a6d7afa3.chunk.js.map": "/protein-sequence/static/js/2.a6d7afa3.chunk.js.map",
+    "static/js/3.53ddbb39.chunk.js": "/protein-sequence/static/js/3.53ddbb39.chunk.js",
+    "static/js/3.53ddbb39.chunk.js.map": "/protein-sequence/static/js/3.53ddbb39.chunk.js.map",
+    "index.html": "/protein-sequence/index.html",
+    "static/css/main.f5c02edc.chunk.css.map": "/protein-sequence/static/css/main.f5c02edc.chunk.css.map",
+    "static/js/2.a6d7afa3.chunk.js.LICENSE.txt": "/protein-sequence/static/js/2.a6d7afa3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c6a83590.js",
+    "static/js/2.a6d7afa3.chunk.js",
+    "static/css/main.f5c02edc.chunk.css",
+    "static/js/main.f6086c27.chunk.js"
+  ]
+}
